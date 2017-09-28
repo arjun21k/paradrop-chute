@@ -1,0 +1,12 @@
+command: node index.js
+config:
+  web:
+    port: 3000
+description: Prepartory tutorial
+name: fall2017-halo42-hello
+source:
+  type: git
+  url: https://github.com/arjun21k/paradrop-chute
+type: light
+use: node
+version: 1
